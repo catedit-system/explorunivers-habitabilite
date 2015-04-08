@@ -1,0 +1,33 @@
+{
+  "namespace_title" : "explorunivers-habitabilite",
+  "property_list" : {
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": {
+      "descriptive_label_fr": "Sous-classe de",
+      "descriptive_label_en": "Subclass of",
+      "object_type": "uriref-category",
+      "usable_in_editor": true,
+      "rdflib_class": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
+    },
+    "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Cause": {
+      "descriptive_label_fr": "Cause",
+      "descriptive_label_en": "Causes",
+      "object_type": "uriref-category",
+      "usable_in_editor": true,
+      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Cause"
+    },
+    "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Conditionne": {
+      "descriptive_label_fr": "Conditionne",
+      "descriptive_label_en": "Conditions",
+      "object_type": "uriref-category",
+      "usable_in_editor": true,
+      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Conditionne"
+    },
+    "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Caracterise": {
+      "descriptive_label_fr": "Caractérise",
+      "descriptive_label_en": "Characterize",
+      "object_type": "uriref-category",
+      "usable_in_editor": true,
+      "rdflib_class": "http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#Caracterise"
+    }
+  }
+}
