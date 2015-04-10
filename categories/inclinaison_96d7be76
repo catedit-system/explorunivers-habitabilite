@@ -1,0 +1,11 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#inclinaison_96d7be76> rdfs:label "Inclinaison" ;
+    ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#orbite_8e4ee35c> ;
+    rdf:Description "Donnée orbitale d'un objet céleste par rapport à son plan de révolution autour d'un autre objet céleste plus massif" ;
+    rdf:ID "inclinaison_96d7be76" .
+
