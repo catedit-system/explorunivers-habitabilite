@@ -1,0 +1,11 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#oceans_a0fa67aa> rdfs:label "Océans" ;
+    ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#terre_516d97b3> ;
+    rdf:Description "Exemple de la relation \"caractérise\". Les océans caractérisent la Terre." ;
+    rdf:ID "oceans_a0fa67aa" .
+

@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> rdfs:label "Etoiles" ;
-    rdf:Description "à définir" ;
+    rdf:Description "Exemple de Catégorie " ;
     rdf:ID "etoile_5804db6b" .
 

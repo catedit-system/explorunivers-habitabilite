@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> rdfs:label "Planètes" ;
-    rdf:Description "à définir" ;
+    rdf:Description "Exemple de Catégorie" ;
     rdf:ID "planete_ad2ff610" .
 

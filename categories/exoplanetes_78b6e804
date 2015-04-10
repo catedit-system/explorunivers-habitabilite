@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#exoplanetes_78b6e804> rdfs:label "Exoplanètes" ;
-    rdf:Description "à définir" ;
+    rdf:Description "Exemple de \"relation\" type \"sous classe de\" ..." ;
     rdf:ID "exoplanetes_78b6e804" .
 
