@@ -7,5 +7,6 @@
 <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-induite_0e18c139> rdfs:label "Formation stellaire induite" ;
     ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#soleil_4403a0c4> ;
     rdf:Description "Exemple de relation entre une Catégorie décrivant un Phénomène (la formation stellaire induite) et une Catégorie décrivant un Objet (le Soleil). Ce phénomène conditionne la naissance de l'étoile. " ;
-    rdf:ID "formation-stellaire-induite_0e18c139" .
+    rdf:ID "formation-stellaire-induite_0e18c139" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_ba02fa5e> .
 
