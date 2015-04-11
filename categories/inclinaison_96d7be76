@@ -6,6 +6,7 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#inclinaison_96d7be76> rdfs:label "Inclinaison" ;
     ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#orbite_8e4ee35c> ;
-    rdf:Description "Donnée orbitale d'un objet céleste par rapport à son plan de révolution autour d'un autre objet céleste plus massif" ;
+    rdf:Description """Donnée orbitale d'un objet céleste par rapport à son plan de révolution autour d'un autre objet céleste plus massif (Axe de rotation)\r
+Donnée orbitale d'un objet céleste caractérisant son plan de révolution par rapport au plan de l'écliptique""" ;
     rdf:ID "inclinaison_96d7be76" .
 
