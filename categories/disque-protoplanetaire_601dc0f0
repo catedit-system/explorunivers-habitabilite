@@ -5,7 +5,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#disque-protoplanetaire_601dc0f0> rdfs:label "Disque protoplanétaire" ;
-    ns1:Cause <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> ;
     rdf:Description """Disque circumstellaire constitué de gaz et de poussières à partir duquel se forment les corps (planètes, planètes naines, petits corps et leurs satellites).\r
 \r
 Les étoiles se forment à partir d'un nuage de gaz et de poussières dont la partie centrale s'effondre sur elle-même. Puis, à l'intérieur de la nébuleuse résiduelle, la matière se condense éventuellement en un disque qui va donner naissance aux planètes. C'est disque protoplanétaire.""" ;
