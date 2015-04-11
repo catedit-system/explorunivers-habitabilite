@@ -6,6 +6,7 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_ba02fa5e> rdfs:label "Formation stellaire" ;
     ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#nuages-moleculaires_81381026> ;
+    ns1:Cause <http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> ;
     rdf:Description "Ensemble des phénomènes agissant pour former une étoile à partir de la matière interstellaire." ;
     rdf:ID "formation-stellaire_ba02fa5e" .
 
