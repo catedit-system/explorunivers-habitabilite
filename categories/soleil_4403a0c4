@@ -5,5 +5,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#soleil_4403a0c4> rdfs:label "Soleil" ;
     rdf:Description "Etoile de type G. Exemple de \"relation\" type \"sous classe de\" ... entre deux catégories, ici Etoiles et Soleil" ;
-    rdf:ID "soleil_4403a0c4" .
+    rdf:ID "soleil_4403a0c4" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> .
 
