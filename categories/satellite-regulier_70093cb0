@@ -1,0 +1,11 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#satellite-regulier_70093cb0> rdfs:label "Satellite Régulier" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> ;
+    rdf:Description "Satellite naturel ou astre qui orbite autour d'une planète parente (un objet plus grand que lui-même), dans la même direction que les autres planètes d'un système Solaire. Leur orbite est \"prograde\", presque circulaire et proche du plan équatorial de leur parente." ;
+    rdf:ID "satellite-regulier_70093cb0" .
+
