@@ -4,7 +4,9 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> rdfs:label "Etoiles" ;
-    rdf:Description "Exemple de Catégorie " ;
+<http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> rdfs:label "Etoile" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#disque-protoplanetaire_601dc0f0> ;
+    rdf:Description """Astre autour duquel peut exister un système planétaire\r
+Totalement impossible d'imaginer la vie ici""" ;
     rdf:ID "etoile_5804db6b" .
 

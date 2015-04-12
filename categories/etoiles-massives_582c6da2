@@ -6,7 +6,7 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#etoiles-massives_582c6da2> rdfs:label "Etoiles massives" ;
     ns1:Cause <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-induite_0e18c139> ;
-    rdf:Description "Exemple de double relations. Etoiles massives est une sous-classe de Etoiles, et Eoiles massives causent la formation stellaire induite." ;
+    rdf:Description "Exemple de double relations. Etoiles massives est une sous-classe de Etoiles, et Etoiles massives causent la formation stellaire induite." ;
     rdf:ID "etoiles-massives_582c6da2" ;
     rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> .
 
