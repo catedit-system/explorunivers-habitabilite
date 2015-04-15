@@ -5,10 +5,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#etoiles-massives_582c6da2> rdfs:label "Etoiles massives" ;
-    ns1:Cause <formation-stellaire-induite_0e18c139>,
+    ns1:Cause <file:///iridata/www/iri-research/formation-stellaire-induite_0e18c139>,
         <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-induite_0e18c139> ;
     rdf:Description "les étoiles massives sont généralement des étoiles de type O et B, de masse très élevée  (entre huit et trois cent masses solaires environ), avec des températures superficielles et luminosités extrêmes. Ces étoiles rares ont une existence très courte par rapport aux autres étoiles car elles épuisent très rapidement leurs réserves d'énergie. Elles explosent violemment en fin de vie (supernovæ) et expulsent de la matière riche en éléments lourds qui ensemence le milieu interstellaire où naissent de nouvelles générations d'étoiles. Leurs noyaux (cœurs) ne disparaissent pas pour autant mais laissent place soit à des étoiles à neutrons soit à des trous noirs pour les plus massives." ;
     rdf:ID "etoiles-massives_582c6da2" ;
-    rdfs:subClassOf <etoile_5804db6b>,
-        <http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> .
+    rdfs:subClassOf <file:///iridata/www/iri-research/etoile_5804db6b> .
 

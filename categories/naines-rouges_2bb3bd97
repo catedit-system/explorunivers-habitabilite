@@ -5,6 +5,5 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#naines-rouges_2bb3bd97> rdfs:label "Naines rouges" ;
     rdf:Description "Etoiles de type spectral M. Exemple de \"relation\" type \"sous classe de\" ..." ;
-    rdf:ID "naines-rouges_2bb3bd97" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#etoile_5804db6b> .
+    rdf:ID "naines-rouges_2bb3bd97" .
 
