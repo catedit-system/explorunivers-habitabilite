@@ -4,7 +4,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#terre_516d97b3> rdfs:label "Terre" ;
-    rdf:Description "Planète tellurique" ;
+    rdf:Description "Wikipédia: La Terre est une planète du Système solaire, la troisième au regard de la distance au Soleil. Il s'agit du sixième objet le plus grand, tant en taille qu'en masse, dans le Système solaire et la plus massive des planètes telluriques de ce système planétaire." ;
     rdf:ID "terre_516d97b3" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_e2637e9d> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_e2637e9d>,
+        <planete-tellurique_e2637e9d> .
 
