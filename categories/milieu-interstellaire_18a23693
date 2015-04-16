@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#milieu-interstellaire_18a23693> rdfs:label "Milieu interstellaire" ;
-    rdf:Description "Gaz et poussière constituant la matière présente dans l'espace entre les étoiles." ;
+    rdf:Description "Wikipédia: En astronomie, le milieu interstellaire est la matière qui, dans une galaxie, remplit l'espace entre les étoiles et se fond dans le milieu intergalactique environnant. Il est un mélange de gaz (ionisés, atomiques et moléculaires), de rayons cosmiques et de poussières. L'énergie qui occupe le même volume, sous forme de rayonnement électromagnétique, correspond au champ de rayonnement interstellaire." ;
     rdf:ID "milieu-interstellaire_18a23693" .
 
