@@ -4,6 +4,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#soleil_4403a0c4> rdfs:label "Soleil" ;
-    rdf:Description "Etoile de type G. Exemple de \"relation\" type \"sous classe de\" ... entre deux catégories, ici Etoiles et Soleil" ;
+    rdf:Description "Wikipédia: Le Soleil est l’étoile du Système solaire. Dans la classification astronomique, c’est une étoile de type naine jaune, composée d’hydrogène (75 % de la masse ou 92 % du volume) et d’hélium (25 % de la masse ou 8 % du volume)8. Autour de lui gravitent la Terre (à la vitesse de 30 km/s), sept autres planètes, au moins cinq planètes naines, de très nombreux astéroïdes et comètes et une bande de poussière. Le Soleil représente à lui seul 99,86 % de la masse du Système solaire ainsi constitué, Jupiter représentant plus des deux tiers du reste." ;
     rdf:ID "soleil_4403a0c4" .
 
