@@ -4,8 +4,9 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#satellite-regulier_70093cb0> rdfs:label "Satellite Régulier" ;
-    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> ;
-    rdf:Description "Satellite naturel ou astre qui orbite autour d'une planète parente (un objet plus grand que lui-même), dans la même direction que les autres planètes d'un système Solaire. Leur orbite est \"prograde\", presque circulaire et proche du plan équatorial de leur parente." ;
+<http://ld.iri-research.org/ontology/categorisation/category#satellite-regulier_70093cb0> rdfs:label "Satellite Naturel" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610>,
+        <planete_ad2ff610> ;
+    rdf:Description "Wikipédia: Un satellite naturel est un objet céleste qui est en orbite autour d'une planète ou d'un autre objet plus grand que lui-même et qui n'est pas d'origine humaine, par opposition aux satellites artificiels. Ils peuvent être de grosse taille et ressembler à de petites planètes. De tels objets sont également appelés lunes, par analogie avec la Lune, le satellite naturel de la Terre." ;
     rdf:ID "satellite-regulier_70093cb0" .
 
