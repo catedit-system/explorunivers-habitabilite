@@ -1,0 +1,12 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#atmosphere_1d579881> rdfs:label "Atmosphère" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#habitabilite_adc5dfc7> ;
+    rdf:Description """Glossaire: Enveloppe gazeuse entourant généralement les astres, tels que des planètes et les étoiles. La composition intrinsèque d'une atmosphère dépend de la genèse et de l'évolution de l'astre.\r
+Ce terme apparaît en Europe vers 1630 : il provient du terme latin "atmosphaera",  combinaison des  termes empruntés au  grec ancien  : "atmos" et "spharia" qui signifient respectivement vapeur et balle (globe).""" ;
+    rdf:ID "atmosphere_1d579881" .
+
