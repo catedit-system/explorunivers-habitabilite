@@ -6,6 +6,5 @@
 <http://ld.iri-research.org/ontology/categorisation/category#systeme-solaire_df943b58> rdfs:label "Système Solaire" ;
     rdf:Description "Glossaire: le système solaire correspond à l'ensemble des corps célestes en orbite autour du soleil, il est constitué de huit planètes et leurs lunes, de cinq planètes naines (dont Pluton), ainsi que d'objets de dimension plus petite, tels que les comètes, les astéroïdes. Les huit planètes du système solaire sont  Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus et Neptune." ;
     rdf:ID "systeme-solaire_df943b58" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865>,
-        <systeme-planetaire_a8761865> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865> .
 
