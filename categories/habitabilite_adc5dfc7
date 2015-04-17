@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#habitabilite_adc5dfc7> rdfs:label "Habitabilité" ;
+    rdf:Description "Glossaire: on définit l'habitabilité d'une planète en fonction de sa capacité à développer une atmosphère et des conditions propices à la vie. Ces propriétés dépendent de celles de  l'étoile autour de laquelle elle gravite. La présence d'eau liquide est un facteur déterminant qui implique des températures et pressions superficielles appropriées (par ex. une température comprise entre 0 et 100°C). La zone habitable d'un système stellaire est considérée comme l'intervalle de distances raisonnables entre une planète et son étoile, qui lui permettrait de conserver de l'eau liquide en surface." ;
+    rdf:ID "habitabilite_adc5dfc7" .
+
