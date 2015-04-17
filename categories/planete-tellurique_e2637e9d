@@ -7,6 +7,5 @@
     rdf:Description """Glossaire: Ces planètes font partie du système solaire interne et correspondent aux quatre planètes les plus proches du soleil :  Mercure,Venus, la Terre, Mars. Ces planètes engendrées à proximité du Soleil et typiquement rocheuses, ont été formées par accrétion de débris minéraux riches en matériaux lourds, seuls éléments capables de perdurer dans des conditions d'agitation thermique intense, contrairement aux gaz et glaces qui ne pourront être agrégés que dans les zones les plus externes du disque solaire (voir planètes géantes). \r
 L'origine du terme provient du latin "tellus" qui correspond à la "terre".""" ;
     rdf:ID "planete-tellurique_e2637e9d" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610>,
-        <planete_ad2ff610> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> .
 

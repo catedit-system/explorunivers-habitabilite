@@ -5,10 +5,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#orbite_8e4ee35c> rdfs:label "Orbite" ;
-    ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610>,
-        <planete_ad2ff610> ;
-    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#terre_516d97b3>,
-        <terre_516d97b3> ;
+    ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#terre_516d97b3> ;
     rdf:Description """Wikipédia: En mécanique céleste et en mécanique spatiale, une orbite (/ɔʁ.bit/) est la courbe fermée représentant la trajectoire que dessine, dans l'espace, un objet céleste sous l'effet de la gravitation et de forces d'inertie1. Une telle orbite est dite périodique. Dans le Système solaire, la Terre, les autres planètes, les astéroïdes et les comètes sont en orbite autour du Soleil. De même, des planètes possèdent des satellites naturels en orbite autour d'elles. Des objets artificiels, comme les satellites et les sondes spatiales sont en orbite autour de la Terre ou d'autres corps du système solaire.\r
 \r
 Une orbite a la forme d'une ellipse dont l'un des foyers coïncide avec le centre de gravité de l'objet central. D'un point de vue relativiste, une orbite est une géodésique dans l'espace-temps courbe.""" ;
