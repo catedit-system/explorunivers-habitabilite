@@ -1,0 +1,16 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#temps-ecoule_b100c388> rdfs:label "Temps (écoulé)" ;
+    rdf:Description """Wikipédia: Le temps est un concept développé par l'être humain pour appréhender le changement dans le monde. Le questionnement s'est porté sur sa « nature intime » : propriété fondamentale de l'Univers, ou plus simplement produit de l'observation intellectuelle et de la perception humaine. La somme des réponses ne suffit pas à dégager un concept satisfaisant du temps. Mais l’examen minutieux de chacune d’entre elles et de leurs relations apportera d’intéressantes réponses. Toutes ne sont pas théoriques : la « pratique » changeante du temps par les hommes est d’une importance capitale.\r
+\r
+Il n'existe pas de mesure du temps comme il existe, par exemple, une mesure de la charge électrique. Dans ce qui suit il faudra comprendre « mesure du temps écoulé » en lieu et place de mesure du temps.\r
+\r
+L'histoire de la mesure du temps écoulé entre deux évènements a évolué à travers les âges et cela n'a pas été sans conséquence sur l’idée que les êtres humains en ont eu au fil de l'histoire. De rudimentaire qu’elle était, sa mesure a gagné aujourd’hui une précision reposant sur l'atome. Ses progrès irréguliers sont donc à relier directement aux transformations du concept de temps. Ses retombées ont affecté bien plus que la simple estimation des durées : la vie quotidienne humaine s'en est trouvée changée, mais aussi et surtout la pensée, qu'elle ait été de nature scientifique, philosophique ou encore religieuse.\r
+\r
+D'un point de vue scientifique, la mesure du temps peut être basée sur la vitesse des processus quantiques (durée de rotation autour d'un cœur d'atome pour un électron par exemple). Mais, passé la définition de sa mesure, l'être humain a plus de difficultés quand il s'agit d'en faire une étude conceptuelle ou philosophique. De plus, la découverte d'Einstein sur la relativité, qui implique non seulement que le temps est relatif (c'est-à-dire qu'il dépend de l'observateur) mais aussi qu'espace et temps sont intimement liés, bouleverse notre compréhension du temps.\r
+""" ;
+    rdf:ID "temps-ecoule_b100c388" .
+
