@@ -5,9 +5,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#exoplanetes_78b6e804> rdfs:label "Exoplanètes" ;
-    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_ba02fa5e> ;
     rdf:Description """Glossaire: Les exoplanètes sont des planètes qui n'appartiennent pas au système solaire mais qui tournent autour d'une autre étoile. La première planète extrasolaire a été découverte, en 1992, autour du pulsar B1257+12, vestige d'une supernova. Puis c'est en 1995 que l'on détecte, par la méthode des vitesses radiales, la première exoplanète en orbite autour d'une étoile de la séquence principale comme le Soleil : 51 Pegasi. A ce jour, près de 188 exoplanètes ont été recensées.\r
 Ce terme composé apparait vers 1970-1975. Le préfixe exo provenant du grec signifie : externe, en dehors. Le terme exoplanète sous-entend qu'il s'agit d'une planète hors système solaire.""" ;
     rdf:ID "exoplanetes_78b6e804" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#etoile_a44aec25> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> .
 
