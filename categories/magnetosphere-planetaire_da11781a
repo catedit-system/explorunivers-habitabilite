@@ -5,10 +5,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#magnetosphere-planetaire_da11781a> rdfs:label "Magnétosphère Planétaire" ;
-    ns1:Conditionne <habitabilite_adc5dfc7>,
-        <http://ld.iri-research.org/ontology/categorisation/category#habitabilite_adc5dfc7> ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#habitabilite_adc5dfc7> ;
     rdf:Description "Ensemble du champ magnétique d'une planète ou d'un satellite naturel protégeant l'astre du vent de son étoile" ;
     rdf:ID "magnetosphere-planetaire_da11781a" ;
-    rdfs:subClassOf <champ-magnetique_814a9256>,
-        <http://ld.iri-research.org/ontology/categorisation/category#champ-magnetique_814a9256> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#champ-magnetique_814a9256> .
 
