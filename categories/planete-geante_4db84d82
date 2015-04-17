@@ -1,9 +1,11 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#planete-geante_4db84d82> rdfs:label "Planète Géante" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_e2637e9d> ;
     rdf:Description "Glossaire: Les planètes géantes font partie du système solaire externe et correspondent aux quatres planètes les plus éloignées du soleil :  Jupiter, Saturne, Uranus et Neptune. Ces planètes sont très froides, et plus volumineuses que la terre. Elle sont qualifiées de gazeuses, car elles sont principalement constituées d'une atmosphère primitive très riche en hydrogène et hélium, qui entoure un petit noyau de roches et/ou de glaces. A l'instar de Saturne, elles ont toutes des anneaux, même s'ils sont très fins pour certaines." ;
     rdf:ID "planete-geante_4db84d82" ;
     rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> .
