@@ -1,9 +1,16 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-non-primaire_44a3839f> rdfs:label "Formation Stellaire non primaire" ;
-    rdf:Description "Formation stellaire à partir de la 2ème génération" ;
-    rdf:ID "formation-stellaire-non-primaire_44a3839f" .
+    ns1:Conditionne <etoile_a44aec25>,
+        <http://ld.iri-research.org/ontology/categorisation/category#etoile_a44aec25>,
+        <http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865>,
+        <systeme-planetaire_a8761865> ;
+    rdf:Description "Formation stellaire à partir de la 2ème génération bénéficiant des apports de supernova" ;
+    rdf:ID "formation-stellaire-non-primaire_44a3839f" ;
+    rdfs:subClassOf <formation-stellaire_ba02fa5e>,
+        <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_ba02fa5e> .
 
