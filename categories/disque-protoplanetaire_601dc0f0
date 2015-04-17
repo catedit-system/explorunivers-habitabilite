@@ -5,6 +5,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#disque-protoplanetaire_601dc0f0> rdfs:label "Disque protoplanétaire" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865>,
+        <systeme-planetaire_a8761865> ;
     rdf:Description "Glossaire: Disque de matière entourant une jeune étoile en gestation, à partir duquel se forment les planètes du système stellaire, ainsi que des corps froids tels que les astéroïdes et comètes. Il est principalement constitué de gaz et de poussières, mais également de glaces  dans les zones plus éloignées de l'étoile." ;
     rdf:ID "disque-protoplanetaire_601dc0f0" .
 
