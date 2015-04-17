@@ -1,0 +1,9 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#asteroide_1731ea41> rdfs:label "Astéroïde" ;
+    rdf:Description "Glossaire: petit corps rocheux froid ou poussiéreux, de forme irrégulière, qui gravite autour du soleil. Les astéroïdes sont  majoritairement situés dans une zone localisée entre les orbites de Mars et de Jupiter : la ceinture d'astéroïdes. Cette particularité laisse supposer que ces objets sont des résidus d'une planète du système solaire dont le processus de formation a échoué." ;
+    rdf:ID "asteroide_1731ea41" .
+
