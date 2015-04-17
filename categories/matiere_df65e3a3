@@ -1,0 +1,14 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#matiere_df65e3a3> rdfs:label "Matière" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#milieu-interstellaire_18a23693> ;
+    rdf:Description """Wikipédia: La matière est ce qui compose tout corps ayant une réalité tangible. Les quatre états les plus communs sont l'état solide, l'état liquide, l'état gazeux et l'état plasma. La matière occupe de l'espace et possède une masse. Ainsi, en physique, tout ce qui a une masse est de la matière.\r
+\r
+La matière ordinaire qui nous entoure est formée de baryons et constitue la matière baryonique. Cette définition exclut les bosons fondamentaux, qui transportent les quatre forces fondamentales, bien qu'ils aient une masse et/ou une énergie.\r
+""" ;
+    rdf:ID "matiere_df65e3a3" .
+
