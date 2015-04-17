@@ -1,9 +1,0 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-<http://ld.iri-research.org/ontology/categorisation/category#les-satellites-irreguliers_de8f5266> rdfs:label "Les Satellites irréguliers" ;
-    rdf:Description "Satellite capturé ou astre qui orbite autour d'une planète parente (un objet plus grand que lui-même), souvent dans des directions différentes que les autres planètes d’un système solaire. Leur Orbite tant \"prograde\" que \"rétrogrades\" est fortement inclinées et excentriques. Presque chaotique, leur mouvement suggère que ces petites lunes se sont formées à l'extérieur des disques circumplanétaires." ;
-    rdf:ID "les-satellites-irreguliers_de8f5266" .
-
