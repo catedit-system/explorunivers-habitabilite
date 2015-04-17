@@ -1,11 +1,17 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#planete-tellurique_e2637e9d> rdfs:label "Planète tellurique" ;
+    ns1:Conditionne <atmosphere_1d579881>,
+        <eau_d1266a4b>,
+        <http://ld.iri-research.org/ontology/categorisation/category#atmosphere_1d579881>,
+        <http://ld.iri-research.org/ontology/categorisation/category#eau_d1266a4b> ;
     rdf:Description """Glossaire: Ces planètes font partie du système solaire interne et correspondent aux quatre planètes les plus proches du soleil :  Mercure,Venus, la Terre, Mars. Ces planètes engendrées à proximité du Soleil et typiquement rocheuses, ont été formées par accrétion de débris minéraux riches en matériaux lourds, seuls éléments capables de perdurer dans des conditions d'agitation thermique intense, contrairement aux gaz et glaces qui ne pourront être agrégés que dans les zones les plus externes du disque solaire (voir planètes géantes). \r
 L'origine du terme provient du latin "tellus" qui correspond à la "terre".""" ;
     rdf:ID "planete-tellurique_e2637e9d" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610>,
+        <planete_ad2ff610> .
 
