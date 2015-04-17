@@ -5,8 +5,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#comete_88da59c9> rdfs:label "Comète" ;
-    ns1:Conditionne <habitabilite_adc5dfc7>,
-        <http://ld.iri-research.org/ontology/categorisation/category#habitabilite_adc5dfc7> ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#habitabilite_adc5dfc7> ;
     rdf:Description """Glossaire: Petit corps céleste composé principalement de glace, qui serait un résidu de la formation du système solaire externe (voir nuage de oort). Les matériaux d’une comète s’échauffent et se volatilisent à l’approche du soleil, sous forme d’une longue trainée lumineuse de gaz et de poussières dessinant ce que l'on appelle une chevelure et des queues cométaires.\r
 Le terme scientifique est employé  vers 1150 en Europe, en référence aux termes grec "Kometes" ou latin "Cometa" qui désignent une longue chevelure. Par analogie il représente un objet céleste qui a l'apparence d'une tête chevelue.""" ;
     rdf:ID "comete_88da59c9" .

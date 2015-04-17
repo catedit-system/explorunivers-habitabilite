@@ -6,6 +6,5 @@
 <http://ld.iri-research.org/ontology/categorisation/category#nuages-moleculaires_81381026> rdfs:label "Nuage moléculaire" ;
     rdf:Description "Glossaire : Nébuleuse interstellaire particulièrement riche en molécules telles que le dihydrogène. Un nuage moléculaire est considéré comme une région très propice à la formation stellaire. C'est une zone généralement froide (- 250°C) et de densité relativement élevée du milieu interstellaire, où les molécules de dihydrogène sont protégées du rayonnement extérieur (voir nébuleuses obscures). Le mécanisme de formation des étoiles et leurs planètes est enclenché par une compression du gaz puis par effondrement gravitationnel des régions les plus denses du nuage." ;
     rdf:ID "nuages-moleculaires_81381026" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#milieu-interstellaire_18a23693>,
-        <milieu-interstellaire_18a23693> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#milieu-interstellaire_18a23693> .
 
