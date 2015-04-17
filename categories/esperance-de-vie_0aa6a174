@@ -5,5 +5,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#esperance-de-vie_0aa6a174> rdfs:label "Espérance de vie" ;
     rdf:Description "Temps au sens durée restant à vivre" ;
-    rdf:ID "esperance-de-vie_0aa6a174" .
+    rdf:ID "esperance-de-vie_0aa6a174" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#temps-ecoule_b100c388> .
 

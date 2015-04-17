@@ -5,5 +5,6 @@
 
 <http://ld.iri-research.org/ontology/categorisation/category#age_fcd58d28> rdfs:label "Age" ;
     rdf:Description "Wikipédia: L’âge, ou âge chronologique, est la durée écoulée depuis l’apparition, la création ou la naissance d’un objet ou d’un être vivant : on parlera ainsi de l’âge de l'univers, de l’âge d’une poterie ancienne, de l’âge d’une bouteille de vin, de l’âge biologique, de l’âge d’un arbre, de l’âge d’un animal, de l’âge d'une personne, de l’âge gestationnel d’un fœtus, etc." ;
-    rdf:ID "age_fcd58d28" .
+    rdf:ID "age_fcd58d28" ;
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#temps-ecoule_b100c388> .
 
