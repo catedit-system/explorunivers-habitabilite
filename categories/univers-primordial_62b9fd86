@@ -1,9 +1,12 @@
+@prefix ns1: <http://ld.iri-research.org/ontology/categorisation/explorunivers-habitabilite#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <http://ld.iri-research.org/ontology/categorisation/category#univers-primordial_62b9fd86> rdfs:label "Univers Primordial" ;
+    ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#matiere_df65e3a3>,
+        <matiere_df65e3a3> ;
     rdf:Description """Wikipédia: En cosmologie, le terme d'univers primordial désigne les époques anciennes de l'histoire de l'univers observable. L'on parle de même de cosmologie primordiale.\r
 \r
 Le terme englobe les époques denses et chaudes de l'histoire de l'univers depuis le Big Bang. Elles incluent en particulier les époques de la nucléosynthèse primordiale et celles, plus anciennes, où les énergies en jeu étaient supérieures à celles accessibles en laboratoire dans les accélérateurs de particules, comme lors de l'éventuelle phase d'inflation cosmique et de la baryogenèse (voir Frise chronologique du Big Bang).\r
@@ -11,5 +14,6 @@ Le terme englobe les époques denses et chaudes de l'histoire de l'univers depui
 Selon les auteurs, la phase dite d'univers primordial se termine peu après la nucléosynthèse. Selon d'autres, elle se continue jusqu'à la recombinaison, c'est-à-dire jusqu'à l'époque d'émission du fond diffus cosmologique. Selon la première définition, l'univers primordial correspond à peu près aux époques où la cosmologie est principalement dominée par la physique des particules, selon la seconde, elle correspond aux époques où aucune structure astrophysique (étoiles, galaxies, amas de galaxies) n'est encore formée.\r
 """ ;
     rdf:ID "univers-primordial_62b9fd86" ;
-    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#univers_6a71d717> .
+    rdfs:subClassOf <http://ld.iri-research.org/ontology/categorisation/category#univers_6a71d717>,
+        <univers_6a71d717> .
 
