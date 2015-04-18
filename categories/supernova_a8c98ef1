@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#supernova_a8c98ef1> rdfs:label "Supernova" ;
+<http://ld.iri-research.org/ontology/categorisation/category#supernova_a8c98ef1> rdfs:label "5. Supernova" ;
     ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-non-primaire_44a3839f> ;
     rdf:Description """Wikipédia: Une supernova est l'ensemble des phénomènes conséquents à l'explosion d'une étoile, qui s'accompagne d'une augmentation brève mais fantastiquement grande de sa luminosité. Vue depuis la Terre, une supernova apparaît donc souvent comme une étoile nouvelle1, alors qu'elle correspond en réalité à la disparition d'une étoile.\r
 \r

@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-non-primaire_44a3839f> rdfs:label "Formation Stellaire non primaire" ;
+<http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire-non-primaire_44a3839f> rdfs:label "6. Formation Stellaire non primaire" ;
     ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#etoile_a44aec25>,
         <http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865> ;
     rdf:Description "Formation stellaire à partir de la 2ème génération bénéficiant des apports de supernova" ;

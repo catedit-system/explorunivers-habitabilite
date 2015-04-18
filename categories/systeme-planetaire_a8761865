@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865> rdfs:label "Système Planétaire" ;
+<http://ld.iri-research.org/ontology/categorisation/category#systeme-planetaire_a8761865> rdfs:label "6.2 Système Planétaire" ;
     ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#asteroide_1731ea41>,
         <http://ld.iri-research.org/ontology/categorisation/category#comete_88da59c9>,
         <http://ld.iri-research.org/ontology/categorisation/category#planete_ad2ff610> ;
