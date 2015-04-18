@@ -3,7 +3,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#temps-ecoule_b100c388> rdfs:label "Temps (écoulé)" ;
+<http://ld.iri-research.org/ontology/categorisation/category#temps-ecoule_b100c388> rdfs:label "2.2 Temps (écoulé)" ;
     rdf:Description """Wikipédia: Le temps est un concept développé par l'être humain pour appréhender le changement dans le monde. Le questionnement s'est porté sur sa « nature intime » : propriété fondamentale de l'Univers, ou plus simplement produit de l'observation intellectuelle et de la perception humaine. La somme des réponses ne suffit pas à dégager un concept satisfaisant du temps. Mais l’examen minutieux de chacune d’entre elles et de leurs relations apportera d’intéressantes réponses. Toutes ne sont pas théoriques : la « pratique » changeante du temps par les hommes est d’une importance capitale.\r
 \r
 Il n'existe pas de mesure du temps comme il existe, par exemple, une mesure de la charge électrique. Dans ce qui suit il faudra comprendre « mesure du temps écoulé » en lieu et place de mesure du temps.\r

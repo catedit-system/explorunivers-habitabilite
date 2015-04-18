@@ -4,7 +4,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_ba02fa5e> rdfs:label "Formation stellaire" ;
+<http://ld.iri-research.org/ontology/categorisation/category#formation-stellaire_ba02fa5e> rdfs:label "4.2 Formation stellaire" ;
     ns1:Caracterise <http://ld.iri-research.org/ontology/categorisation/category#nuages-moleculaires_81381026> ;
     ns1:Conditionne <http://ld.iri-research.org/ontology/categorisation/category#etoile_a44aec25> ;
     rdf:Description "Wikipédia: La naissance des étoiles ou formation stellaire, voire stellogénèse ou stellogonie, est un domaine de recherche en astrophysique qui consiste en l'étude des modes de formation des étoiles et des systèmes planétaires. Les étoiles en formation sont fréquemment appelées \"étoiles jeunes\". En cosmologie, la formation des étoiles n’a lieu que durant la période de l’univers nommée « ère stellifère »." ;

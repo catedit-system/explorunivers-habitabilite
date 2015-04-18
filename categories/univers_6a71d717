@@ -3,7 +3,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://ld.iri-research.org/ontology/categorisation/category#univers_6a71d717> rdfs:label "Univers" ;
+<http://ld.iri-research.org/ontology/categorisation/category#univers_6a71d717> rdfs:label "1. Univers" ;
     rdf:Description """Wikipédia: L'Univers est l'ensemble de tout ce qui existe, régi par un certain nombre de lois.\r
 \r
 Commentaire: Il comprend l'espace-temps qui s'expanse et toute la matière et l'énergie sous quelque forme que ce soit""" ;
