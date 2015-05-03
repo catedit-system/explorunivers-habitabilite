@@ -1,0 +1,10 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ld.iri-research.org/ontology/categorisation/category#gravitation_b73db8c7> rdfs:label "Gravitation" ;
+    rdf:Description """Glossaire: Phénomène d'attraction mutuelle exercé par deux corps de masse non nulle. La force gravitationnelle exercée par un corps est d'autant plus forte que sa masse est importante. La gravitation est l'une des quatre interactions fondamentales de la physique.\r
+Le terme scientifique, employé vers 1640, est un dérivé du terme latin "gravitatio" dont le radical "grav" fait référence au "poid" ou à la "pesanteur """ ;
+    rdf:ID "gravitation_b73db8c7" .
+
